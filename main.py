@@ -9,7 +9,7 @@ mixer.music.load('space.ogg')
 mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
  
-# шрифти і написи
+# шрифти і написи------------------------------
 font.init()
 font2 = font.SysFont("Arail", 36)
  
